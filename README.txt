@@ -1,5 +1,5 @@
-Проект представляет собой сайт интернет-магазина по продаже часов, 
-написанный в ООП парадигме с применением паттерна MVC.
-Сайт состоит из двух частей - клиентской (для посетителей) и 
-административной (для наполнения сайта контентом и других 
-CRUD операций с СУБД MySQL).
+The project is a website of an online store selling watches,
+written in the OOP paradigm using the MVC pattern.
+The site consists of two parts - client (for visitors) and
+administrative (for filling the site with content and others
+CRUD operations with MySQL DBMS).
